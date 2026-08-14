@@ -13,12 +13,18 @@ Welcome to my GitHub! I am currently transforming my skill set to bridge the gap
 ## 🛠️ Tech Stack & Roadmap
 
 ### Under Active Learning (Core SE):
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="VS Code" />
+*   *Language:* Python
+*   *Version Control:* Git
+*   *Editor:* VS Code
 
 ### AI & Integration Roadmap (Next Steps):
-<img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="OpenAI" /> <img src="https://shields.io" alt="LangChain" />
+*   *Backend:* FastAPI / Flask
+*   *AI Integration:* OpenAI API
+*   *Orchestration:* LangChain
 
 ---
 
-## 📊 GitHub Contribution Stats
-<img src="https://vercel.app" alt="Yukesh's GitHub Stats" />
+## 📈 Learning Plan & Progress
+*   Building simple automation scripts with Python.
+*   Pushing code daily to build consistency on Git.
+*   Documenting full-stack AI system workflows.
