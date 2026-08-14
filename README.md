@@ -13,12 +13,12 @@ Welcome to my GitHub! I am currently transforming my skill set to bridge the gap
 ## 🛠️ Tech Stack & Roadmap
 
 ### Under Active Learning (Core SE):
-![Python](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="VS Code" />
 
 ### AI & Integration Roadmap (Next Steps):
-![FastAPI](https://shields.io) ![OpenAI](https://shields.io) ![LangChain](https://shields.io)
+<img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="OpenAI" /> <img src="https://shields.io" alt="LangChain" />
 
 ---
 
 ## 📊 GitHub Contribution Stats
-![Yukesh's GitHub Stats](https://vercel.app)
+<img src="https://vercel.app" alt="Yukesh's GitHub Stats" />
