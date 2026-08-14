@@ -11,19 +11,12 @@ Welcome to my GitHub! I am currently transforming my skill set to bridge the gap
 ---
 
 ## 🛠️ Tech Stack & Roadmap
+
 ### Under Active Learning (Core SE):
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Python](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
 ### AI & Integration Roadmap (Next Steps):
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![FastAPI](https://shields.io) ![OpenAI](https://shields.io) ![LangChain](https://shields.io)
 
 ---
 
