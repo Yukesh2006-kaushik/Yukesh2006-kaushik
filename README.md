@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Yukesh Kaushik! 👋
+### Aspiring AI & Software Integration Engineer | B.Tech CSE (3rd Year)
 
-<!--
-**Yukesh2006-kaushik/Yukesh2006-kaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am currently transforming my skill set to bridge the gap between traditional *Software Engineering* and *AI/ML Integration*. I build applications that leverage intelligent models to solve real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 *Current Focus:* Core Python programming, Data Structures (DSA), and Git version control.
+- 🌱 *Learning Path:* Moving towards API Development (FastAPI/Flask) and integrating LLMs/AI models.
+- 🎯 *Future Goals:* Mastering Model Deployment (MLOps) and building full-stack AI-powered applications.
+- 💼 *Target:* Preparing for AI Engineer & Software Engineering Internships (2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Roadmap
+### Under Active Learning (Core SE):
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### AI & Integration Roadmap (Next Steps):
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 📊 GitHub Contribution Stats
+![Yukesh's GitHub Stats](https://vercel.app)
